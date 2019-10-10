@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://yuluobin:2581643@devcluster-ixlwu.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecure": "mywebtoken",
+  "githubClientId": "dac5dab938d141e12f00",
+  "githubSecret": "c1ba4053594db119b8215663bc90cc43b70e68bf"
+}
